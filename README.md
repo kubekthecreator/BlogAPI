@@ -13,7 +13,6 @@ Aplikacja włączy się pod adresem http://localhost:8080
 
 # Co możesz znaleźć w moim projekcie: 🎉
 - REST API
-- ModelViewController
 - CRUD
 - JWT
 - Cache
