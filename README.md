@@ -21,7 +21,7 @@ Aplikacja włączy się pod adresem http://localhost:8080
 
 # Wykorzystane technologie 🔧
 - Java 11
-- Spring Framework (MVC, Data JPA, Security, Validation)
+- Spring Framework (Data JPA, Security)
 - Spring Boot
 - Hibernate/JPA
 - H2Database/SQL
